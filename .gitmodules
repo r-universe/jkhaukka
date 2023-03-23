@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "codeCollection"]
+	path = codeCollection
+	url = https://github.com/cran/codeCollection
+	shallow = true
+	registered = true
+[submodule "cohorttools"]
+	path = cohorttools
+	url = https://github.com/cran/cohorttools
+	shallow = true
+	registered = true
+[submodule "mapsFinland"]
+	path = mapsFinland
+	url = https://github.com/cran/mapsFinland
+	shallow = true
+	registered = true
+[submodule "shinyPredict"]
+	path = shinyPredict
+	url = https://github.com/cran/shinyPredict
+	shallow = true
+	registered = true
