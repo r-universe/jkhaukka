@@ -8,9 +8,6 @@
 [submodule "cohorttools"]
 	path = cohorttools
 	url = https://github.com/cran/cohorttools
-[submodule "mapsFinland"]
-	path = mapsFinland
-	url = https://github.com/cran/mapsFinland
 [submodule "shinyPredict"]
 	path = shinyPredict
 	url = https://github.com/cran/shinyPredict
